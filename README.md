@@ -18,5 +18,6 @@ ms(1);
 ms(1, "minor second");
 // --> 1.066
 
-// See modularscale.com for the full list of ratios.
+// See modularscale.com for the full list of preset ratios.
+// You can also pass it any ratio you'd like.
 ```
