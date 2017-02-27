@@ -5,7 +5,7 @@ ratios =
   "major second": 9/8
   "minor third": 6/5
   "major third": 4/3
-  "diminished fourth": Math.sqrt(2)
+  "augmented fourth": Math.sqrt(2)
   "perfect fifth": 3/2
   "minor sixth": 8/5
   "golden": 1.61803398875
