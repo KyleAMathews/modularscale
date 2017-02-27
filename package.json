@@ -1,7 +1,7 @@
 {
   "name": "modularscale",
   "description": "Calculate a value from a modular scale",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "bugs": {
     "url": "https://github.com/KyleAMathews/modularscale/issues"
