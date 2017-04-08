@@ -32,6 +32,7 @@
     "url": "https://github.com/KyleAMathews/modularscale.git"
   },
   "scripts": {
+    "build": "coffee -o dist/ -c src/index.coffee",
     "test-watch": "NODE_ENV=test node_modules/.bin/mocha -w --recursive --compilers coffee:coffee-script/register -R mocha-unfunk-reporter",
     "test": "node_modules/.bin/coffeelint src/* && NODE_ENV=test node_modules/.bin/mocha --recursive --compilers coffee:coffee-script/register -R mocha-unfunk-reporter"
   }
