@@ -4,7 +4,8 @@ ratios =
   "minor second": 16/15
   "major second": 9/8
   "minor third": 6/5
-  "major third": 4/3
+  "major third": 5/4
+  "perfect fourth": 4/3
   "augmented fourth": Math.sqrt(2)
   "perfect fifth": 3/2
   "minor sixth": 8/5
